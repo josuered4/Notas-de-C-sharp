@@ -1,11 +1,11 @@
--------------------------------------
+--------------------------------------
 Uno de los puntos principales de la 
 POO es la creación de objetos 
 conectados entre si, pero en 
 ocaciones es necesario proteger de 
 alguna manera algunos procesos.
 
--------------------------------------
+--------------------------------------
 El Encapsulamiento 
 Es concepto en el cual protegemos 
 los elementos de una clase de otras,
