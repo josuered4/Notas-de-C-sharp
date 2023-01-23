@@ -1,12 +1,17 @@
-Uno de los puntos principales de la POO es la creación 
-de objetos conectados entre si, pero en ocaciones es 
-necesario proteger de alguna manera algunos procesos.
+------------------------------------
+Uno de los puntos principales de la 
+POO es la creación de objetos 
+conectados entre si, pero en 
+ocaciones es necesario proteger de 
+alguna manera algunos procesos.
 
 El Encapsulamiento 
-Es concepto en el cual protegemos los elementos de una 
-clase de otras, apesar de que las clases se comuniquen 
-estas no deberian conocer nada de los procesos de otra 
-clase.
+Es concepto en el cual protegemos 
+los elementos de una clase de otras,
+apesar de que las clases se 
+comuniquen estas no deberian conocer 
+nada de los procesos de otra clase.
+
 Cuando creemos clases, metodos y propiedades debemos 
 encapsularlas para que no sean accesible desde otras a 
 excepcion de que se requiera.
