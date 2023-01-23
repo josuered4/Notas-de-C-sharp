@@ -5,6 +5,7 @@ conectados entre si, pero en
 ocaciones es necesario proteger de 
 alguna manera algunos procesos.
 
+------------------------------------
 El Encapsulamiento 
 Es concepto en el cual protegemos 
 los elementos de una clase de otras,
@@ -12,20 +13,26 @@ apesar de que las clases se
 comuniquen estas no deberian conocer 
 nada de los procesos de otra clase.
 
-Cuando creemos clases, metodos y propiedades debemos 
-encapsularlas para que no sean accesible desde otras a 
-excepcion de que se requiera.
-El decir que no se requiera hace referencia a que hay 
-que pensar que tipo de variables encapsular ya sea con
-prive o protected
+Cuando creemos clases, metodos y 
+propiedades debemos encapsularlas 
+para que no sean accesible desde 
+otras a excepcion de que se requiera.
+
+El decir que no se requiera hace 
+referencia a que hay que pensar que 
+tipo de variables encapsular ya sea 
+con prive o protected
 
 
 Constructores "Definiciones"
 
-Los contructoes inicial un objeto o mas bien sus propiedades, 
-cuando un contructor es llamado en una clase que hereda de otra
-el contructor inicializara las propiedades de la clase padre 1ro
-y en caso de no heredar, todas las clases herendan de object.
+Los contructoes inicial un objeto o 
+mas bien sus propiedades, cuando un 
+contructor es llamado en una clase 
+que hereda de otra el contructor 
+inicializara las propiedades de la 
+clase padre 1ro y en caso de no heredar, 
+todas las clases herendan de object.
 
 - "Dan un estado inicial a los objetos, mismo que se puede 
     modificar despues"
