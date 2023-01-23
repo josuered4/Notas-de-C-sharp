@@ -1,0 +1,42 @@
+Uno de los puntos principales de la POO es la creación 
+de objetos conectados entre si, pero en ocaciones es 
+necesario proteger de alguna manera algunos procesos.
+
+El Encapsulamiento 
+Es concepto en el cual protegemos los elementos de una 
+clase de otras, apesar de que las clases se comuniquen 
+estas no deberian conocer nada de los procesos de otra 
+clase.
+Cuando creemos clases, metodos y propiedades debemos 
+encapsularlas para que no sean accesible desde otras a 
+excepcion de que se requiera.
+El decir que no se requiera hace referencia a que hay 
+que pensar que tipo de variables encapsular ya sea con
+prive o protected
+
+
+Constructores "Definiciones"
+
+Los contructoes inicial un objeto o mas bien sus propiedades, 
+cuando un contructor es llamado en una clase que hereda de otra
+el contructor inicializara las propiedades de la clase padre 1ro
+y en caso de no heredar, todas las clases herendan de object.
+
+- "Dan un estado inicial a los objetos, mismo que se puede 
+    modificar despues"
+- "Los atributos definen el estado del objeto"
+
+
+Constructores
+Todas las clases herendan se object, o "System.Object" y junto a esto 
+todas las clases tienen un contructor por defecto, aunque no lo hayamos 
+especificado, cuando nosotros ponemos un constructor, estamos sobre 
+cargando el constructor por defecto.
+
+Recordar 
+¿Para que me sirve un constructor vacio?
+Los Constructores inicializan las propiedades de las clases padres y despues 
+de los hijas, "Object primero y despues las demas en jerarquia"
+
+¿Como es posible las clases sin Constructores?
+Parte de la respuesta esta arriba no existe una clase sin constructor.

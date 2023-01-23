@@ -1,0 +1,15 @@
+/home/josuered4/Escritorio/Curso de c#/Encapsulación/obj/Debug/net6.0/Encapsulación.csproj.AssemblyReference.cache
+/home/josuered4/Escritorio/Curso de c#/Encapsulación/obj/Debug/net6.0/Encapsulación.GeneratedMSBuildEditorConfig.editorconfig
+/home/josuered4/Escritorio/Curso de c#/Encapsulación/obj/Debug/net6.0/Encapsulación.AssemblyInfoInputs.cache
+/home/josuered4/Escritorio/Curso de c#/Encapsulación/obj/Debug/net6.0/Encapsulación.AssemblyInfo.cs
+/home/josuered4/Escritorio/Curso de c#/Encapsulación/obj/Debug/net6.0/Encapsulación.csproj.CoreCompileInputs.cache
+/home/josuered4/Escritorio/Curso de c#/Encapsulación/bin/Debug/net6.0/Encapsulación
+/home/josuered4/Escritorio/Curso de c#/Encapsulación/bin/Debug/net6.0/Encapsulación.deps.json
+/home/josuered4/Escritorio/Curso de c#/Encapsulación/bin/Debug/net6.0/Encapsulación.runtimeconfig.json
+/home/josuered4/Escritorio/Curso de c#/Encapsulación/bin/Debug/net6.0/Encapsulación.dll
+/home/josuered4/Escritorio/Curso de c#/Encapsulación/bin/Debug/net6.0/ref/Encapsulación.dll
+/home/josuered4/Escritorio/Curso de c#/Encapsulación/bin/Debug/net6.0/Encapsulación.pdb
+/home/josuered4/Escritorio/Curso de c#/Encapsulación/obj/Debug/net6.0/Encapsulación.dll
+/home/josuered4/Escritorio/Curso de c#/Encapsulación/obj/Debug/net6.0/ref/Encapsulación.dll
+/home/josuered4/Escritorio/Curso de c#/Encapsulación/obj/Debug/net6.0/Encapsulación.pdb
+/home/josuered4/Escritorio/Curso de c#/Encapsulación/obj/Debug/net6.0/Encapsulación.genruntimeconfig.cache
