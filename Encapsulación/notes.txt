@@ -35,27 +35,30 @@ clase padre 1ro y en caso de no
 heredar, todas las clases herendan 
 de object.
 
-- "Dan un estado inicial a los objetos, 
-    mismo que se puede modificar despues"
-- "Los atributos definen el estado del
+"Dan un estado inicial a los objetos 
+  mismo que se puede modificar despues"
+"Los atributos definen el estado del
     objeto"
 
 ------------------------------------
 Constructores
-Todas las clases herendan se object, o
-"System.Object" y junto a esto todas 
-las clases tienen un contructor por 
-defecto, aunque no lo hayamos especificado, 
-cuando nosotros ponemos un constructor, 
-estamos sobre cargando el constructor por 
-defecto.
+Todas las clases herendan se object, 
+o "System.Object" y junto a esto 
+todas las clases tienen un contructor 
+por defecto, aunque no lo hayamos 
+especificado, cuando nosotros ponemos 
+un constructor, estamos sobre cargando
+el constructor por defecto.
 
 Recordar 
-¿Para que me sirve un constructor vacio?
-Los Constructores inicializan las propiedades 
-de las clases padres y despues de los hijas, 
-"Object primero y despues las demas en jerarquia"
+¿Para que me sirve un constructor 
+vacio?
+Los Constructores inicializan las 
+propiedades de las clases padres y 
+despues de los hijas, "Object primero 
+y despues las demas en jerarquia"
 
-¿Como es posible las clases sin Constructores?
-Parte de la respuesta esta arriba no existe una 
-clase sin constructor.
+¿Como es posible las clases sin 
+Constructores?
+Parte de la respuesta esta arriba no 
+existe una clase sin constructor.
