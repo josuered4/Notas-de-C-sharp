@@ -10,5 +10,7 @@ class Program
 
         var Automovil = new Coche(largo: 1.60, ancho: 0.80, climatizador: true, tapiceria: "");
         Console.WriteLine(Automovil.getRuedas());
+        Automovil.setRuedas(8);
+        Console.WriteLine(Automovil.getRuedas());
     }
 }

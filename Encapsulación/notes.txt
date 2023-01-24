@@ -62,3 +62,21 @@ y despues las demas en jerarquia"
 Constructores?
 Parte de la respuesta esta arriba no 
 existe una clase sin constructor.
+
+
+-------------------------------------
+Clases Parciales 
+Son clases normales, solo con la 
+diferencia de que estas son clases 
+grandes que fueron divididas 
+
+partian class MyClase{
+  +parte 1 de MyClase
+}
+
+partian class MyClase{
+  +parte 2 de MyClase
+}
+
+las clases anteriores son la mismas 
+y deberian estar en el mismo ensamblado
