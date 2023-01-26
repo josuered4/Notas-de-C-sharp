@@ -1,0 +1,35 @@
+-------------------------------------
+Clases Anonimas.
+
+EStas clases en c# son los objetos de 
+de js y son declaradas como las de js
+"var Class = {name =''josue, etc = 0}"
+
+No se requiere especificar el tipo de 
+dato de los parametros 
+
+Restrecciones.
++ Solo puede tener campos publico 
++ Todo campo debe ser inicializado
++ Sin campos estaticos
++ Sin metodo dentro de la clase
+
+No ayudan a simplificar codigo y nos 
+ayudan a realizar query en sql 
+
+-------------------------------------
+Simplifacion en el uso de metodos
+    ESTATICOS
+
+si nosotros estamos usando una gran 
+cantidad de metodos estacos, como el
+"WriteLine" de la clase "Console" o 
+"Pow" de la calse "Math", nosotros 
+podemos importar toda la clase, para 
+usar solo el nombre de las clases.
+
+using static System.Console;
+
+WriteLine("SOLO EL METODO");
+
+"Pero no se recomienda"

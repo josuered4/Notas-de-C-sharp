@@ -1,0 +1,15 @@
+/home/josuered4/Escritorio/Curso de c#/ClasesAnonimas/bin/Debug/net6.0/ClasesAnonimas
+/home/josuered4/Escritorio/Curso de c#/ClasesAnonimas/bin/Debug/net6.0/ClasesAnonimas.deps.json
+/home/josuered4/Escritorio/Curso de c#/ClasesAnonimas/bin/Debug/net6.0/ClasesAnonimas.runtimeconfig.json
+/home/josuered4/Escritorio/Curso de c#/ClasesAnonimas/bin/Debug/net6.0/ClasesAnonimas.dll
+/home/josuered4/Escritorio/Curso de c#/ClasesAnonimas/bin/Debug/net6.0/ref/ClasesAnonimas.dll
+/home/josuered4/Escritorio/Curso de c#/ClasesAnonimas/bin/Debug/net6.0/ClasesAnonimas.pdb
+/home/josuered4/Escritorio/Curso de c#/ClasesAnonimas/obj/Debug/net6.0/ClasesAnonimas.csproj.AssemblyReference.cache
+/home/josuered4/Escritorio/Curso de c#/ClasesAnonimas/obj/Debug/net6.0/ClasesAnonimas.GeneratedMSBuildEditorConfig.editorconfig
+/home/josuered4/Escritorio/Curso de c#/ClasesAnonimas/obj/Debug/net6.0/ClasesAnonimas.AssemblyInfoInputs.cache
+/home/josuered4/Escritorio/Curso de c#/ClasesAnonimas/obj/Debug/net6.0/ClasesAnonimas.AssemblyInfo.cs
+/home/josuered4/Escritorio/Curso de c#/ClasesAnonimas/obj/Debug/net6.0/ClasesAnonimas.csproj.CoreCompileInputs.cache
+/home/josuered4/Escritorio/Curso de c#/ClasesAnonimas/obj/Debug/net6.0/ClasesAnonimas.dll
+/home/josuered4/Escritorio/Curso de c#/ClasesAnonimas/obj/Debug/net6.0/ref/ClasesAnonimas.dll
+/home/josuered4/Escritorio/Curso de c#/ClasesAnonimas/obj/Debug/net6.0/ClasesAnonimas.pdb
+/home/josuered4/Escritorio/Curso de c#/ClasesAnonimas/obj/Debug/net6.0/ClasesAnonimas.genruntimeconfig.cache
