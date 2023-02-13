@@ -1,0 +1,66 @@
+-------------------------------------
+Clase Object
+Toda clase, hereda de la clase Object
+esta es la clase principal, esta 
+herencia se da forma implicita, esta
+clase contiene metodos concidos como
+ + type
+ + Object
+ + toString
+
+-------------------------------------
+Herencia 
+Al igual que la herencia de bienes, 
+en programación podemos definir Class
+basadas de otras, y esto mediante de 
+la herencia.
+
+La clase que hereda sus funciones y 
+propiedades, se le llama clase "base"
+o clase padre, la clase que hereda se
+conoce como clase "Derivada", o clase 
+hija.
+
+class ClaseHija : ClasePadre{}
+
+-------------------------------------
+Funcionamiento de Constructores.
+Recordar que el funcionamiento princi
+de un constructor es inicializar las 
+propiedades de su clase y de su clase
+padre, esto mediante la llamada al 
+constructor de la clase padre u 
+"Object", primerose inicializa el 
+padre y luego el hijo.
+
+Pero ¿Como es que se da esta llamada?
+Existe una instruccion que se llama 
+de forma implicita:
+":base()"
+
+Si usamos los constructor por defecto 
+no se requiere especificar la 
+instruccion ":base()", pero si usamos 
+nuestros propios Constructores, ya se
+debe de programar la instruccion 
+":base()" 
+
+Esto es logico por que puede que la 
+clase padre requiera inicializar 
+propiedades y como se hara sin que 
+le pasemos argumentos.
+
+Example de contructor con herencia 
+
+
+public hijoConst(int x):base(x){}
+
+"EL constructor hijo debe pasar 
+los argumentos al contructor padre"
+
+-------------------------------------
++ Un constructor por defecto es uno 
+que no tiene parametros y esta vacio, 
+cuando creamos un constructor, el 
+constructor por defecto es sobre 
+cargado 

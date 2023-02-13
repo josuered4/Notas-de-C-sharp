@@ -1,0 +1,15 @@
+/home/josuered4/Escritorio/Curso de c#/Herencia/obj/Debug/net6.0/Herencia.csproj.AssemblyReference.cache
+/home/josuered4/Escritorio/Curso de c#/Herencia/obj/Debug/net6.0/Herencia.GeneratedMSBuildEditorConfig.editorconfig
+/home/josuered4/Escritorio/Curso de c#/Herencia/obj/Debug/net6.0/Herencia.AssemblyInfoInputs.cache
+/home/josuered4/Escritorio/Curso de c#/Herencia/obj/Debug/net6.0/Herencia.AssemblyInfo.cs
+/home/josuered4/Escritorio/Curso de c#/Herencia/obj/Debug/net6.0/Herencia.csproj.CoreCompileInputs.cache
+/home/josuered4/Escritorio/Curso de c#/Herencia/bin/Debug/net6.0/Herencia
+/home/josuered4/Escritorio/Curso de c#/Herencia/bin/Debug/net6.0/Herencia.deps.json
+/home/josuered4/Escritorio/Curso de c#/Herencia/bin/Debug/net6.0/Herencia.runtimeconfig.json
+/home/josuered4/Escritorio/Curso de c#/Herencia/bin/Debug/net6.0/Herencia.dll
+/home/josuered4/Escritorio/Curso de c#/Herencia/bin/Debug/net6.0/ref/Herencia.dll
+/home/josuered4/Escritorio/Curso de c#/Herencia/bin/Debug/net6.0/Herencia.pdb
+/home/josuered4/Escritorio/Curso de c#/Herencia/obj/Debug/net6.0/Herencia.dll
+/home/josuered4/Escritorio/Curso de c#/Herencia/obj/Debug/net6.0/ref/Herencia.dll
+/home/josuered4/Escritorio/Curso de c#/Herencia/obj/Debug/net6.0/Herencia.pdb
+/home/josuered4/Escritorio/Curso de c#/Herencia/obj/Debug/net6.0/Herencia.genruntimeconfig.cache
