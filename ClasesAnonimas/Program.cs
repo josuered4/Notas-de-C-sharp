@@ -7,7 +7,7 @@ class Program
         //Declaracion de clases anonimas 
         var miClaseAnonima = new {Nombre = "Josue", Edad = 19 };
         var miSegundaClaseAnonima = new {Nombre = "Isaac", Edad = 19 };
-        var miSegundaClaseAnonima = new {Nombre = "Isaac", Edad = "19", Peso = 2 };
+        //var miSegundaClaseAnonima = new {Nombre = "Isaac", Edad = "19", Peso = 2 };
 
         //son como los objetos en js
         //El compilador sabe que tipo de clase es 

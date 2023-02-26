@@ -33,7 +33,7 @@ class Program
         ListaMamiferos.Add(chango);
         ListaMamiferos.Add(llegua);
 
-        Console.WriteLine(ListaMamiferos[1].ToString);
+        //Console.WriteLine(ListaMamiferos[1].ToString);
 
         var surut = new Automovil("Surut");
    }

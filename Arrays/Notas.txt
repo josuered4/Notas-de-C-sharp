@@ -1,0 +1,50 @@
+*************************************
+Arrays o Arreglos.
+
+Es una estructura de datos para 
+almacenar datos relacionados entre si
+y que son del mismo tipo de dato esto
+para no andar creando variables.
+
+NO SE PUEDEN AGREGAR UNA CANTIDAD DE 
+DATOS QUE SUPEREN EL TAMAÑO DEL Array
+
+sintaxis 1.
+    int[] my_array = new int[4];
+
+    indicar el tipo de dato y
+    los "[]" indican que es un array
+    con new se inializa y se le da un
+    tamaño.
+
+
+sintaxis 2.
+    int[] my_array = {1,2,3,4,5}
+
+    podemos inicializar de golpe un 
+    array, indicando los elementos 
+    entre "{}" los elementos.
+
+
+sintaxis 3.
+int[] my_array = new int[5]{1,2,3,4,5};
+int[] my_array = new int[]{1,2,3,4,5};
+
+    tambien podemos declarar el tamaño
+    y algunos elementos 
+
+
+acceder:
+    my_array[1];
+
+
+*************************************
+
+For Mejorado 
+
+foreach(var Iterador in NameArray)
+{
+    +se declara con foreach
+    +se crea un iter del tipo Array
+    +se le pasa el Array
+}
