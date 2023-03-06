@@ -48,3 +48,7 @@ foreach(var Iterador in NameArray)
     +se crea un iter del tipo Array
     +se le pasa el Array
 }
+
+para modificar un arrary este for no 
+funciona, para eso se recomienda el 
+otro for

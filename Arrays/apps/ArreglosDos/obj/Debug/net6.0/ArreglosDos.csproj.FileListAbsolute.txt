@@ -1,0 +1,15 @@
+/home/josuered4/Escritorio/Curso de c#/Arrays/apps/ArreglosDos/bin/Debug/net6.0/ArreglosDos
+/home/josuered4/Escritorio/Curso de c#/Arrays/apps/ArreglosDos/bin/Debug/net6.0/ArreglosDos.deps.json
+/home/josuered4/Escritorio/Curso de c#/Arrays/apps/ArreglosDos/bin/Debug/net6.0/ArreglosDos.runtimeconfig.json
+/home/josuered4/Escritorio/Curso de c#/Arrays/apps/ArreglosDos/bin/Debug/net6.0/ArreglosDos.dll
+/home/josuered4/Escritorio/Curso de c#/Arrays/apps/ArreglosDos/bin/Debug/net6.0/ref/ArreglosDos.dll
+/home/josuered4/Escritorio/Curso de c#/Arrays/apps/ArreglosDos/bin/Debug/net6.0/ArreglosDos.pdb
+/home/josuered4/Escritorio/Curso de c#/Arrays/apps/ArreglosDos/obj/Debug/net6.0/ArreglosDos.csproj.AssemblyReference.cache
+/home/josuered4/Escritorio/Curso de c#/Arrays/apps/ArreglosDos/obj/Debug/net6.0/ArreglosDos.GeneratedMSBuildEditorConfig.editorconfig
+/home/josuered4/Escritorio/Curso de c#/Arrays/apps/ArreglosDos/obj/Debug/net6.0/ArreglosDos.AssemblyInfoInputs.cache
+/home/josuered4/Escritorio/Curso de c#/Arrays/apps/ArreglosDos/obj/Debug/net6.0/ArreglosDos.AssemblyInfo.cs
+/home/josuered4/Escritorio/Curso de c#/Arrays/apps/ArreglosDos/obj/Debug/net6.0/ArreglosDos.csproj.CoreCompileInputs.cache
+/home/josuered4/Escritorio/Curso de c#/Arrays/apps/ArreglosDos/obj/Debug/net6.0/ArreglosDos.dll
+/home/josuered4/Escritorio/Curso de c#/Arrays/apps/ArreglosDos/obj/Debug/net6.0/ref/ArreglosDos.dll
+/home/josuered4/Escritorio/Curso de c#/Arrays/apps/ArreglosDos/obj/Debug/net6.0/ArreglosDos.pdb
+/home/josuered4/Escritorio/Curso de c#/Arrays/apps/ArreglosDos/obj/Debug/net6.0/ArreglosDos.genruntimeconfig.cache

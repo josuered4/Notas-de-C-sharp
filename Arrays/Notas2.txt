@@ -1,0 +1,16 @@
+*************************************
+Arreglos por Parametros.
+
+No tiene mucha ciencia, un arrays es
+como cualquier datos.
+
+Declaracion
+void MyFuction(int[] myArray){}
+
+Ejemplo de una llamada.
+MyFuction(new int[]{0,1,2,3,4,5});
+
+
+CUANDO MANIPULAS UN ARRAY PASADO POR 
+PARAMETRO EL ARRAY ORIGINAL TAMBIEN 
+SE MODIFICA, TENER CUIDADO 
